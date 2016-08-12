@@ -1,3 +1,3 @@
 # DevOpsAssignment
-This is for Devops Assignment given by Wipro for Comcast client \n
+This is for Devops Assignment given by Wipro for Comcast client.
 There are still few  modifications left.. wait for it.....
